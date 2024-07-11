@@ -1,5 +1,3 @@
-Claro, aqui está o texto completo formatado em Markdown para você copiar e colar no GitHub:
-
 ```markdown
 # FakeTwitter API
 
